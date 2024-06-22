@@ -1,0 +1,19 @@
+{
+  "name": "library_management_system",
+  "version": "1.0.0",
+  "description": "library management system backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riz-Mitchell/Library-Management-System.git"
+  },
+  "author": "Riley Mitchell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riz-Mitchell/Library-Management-System/issues"
+  },
+  "homepage": "https://github.com/Riz-Mitchell/Library-Management-System#readme"
+}
