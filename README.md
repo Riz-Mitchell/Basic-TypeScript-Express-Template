@@ -89,10 +89,7 @@ This document outlines the business requirements for a Library Management System
   - Authentication and authorization using JWT.
   - Data validation and error handling.
 - **Database:**
-  - Relational database (e.g., PostgreSQL, MySQL) to store all data.
-- **Frontend:**
-  - Admin and Librarian: Web interface using a modern JavaScript framework (e.g., React, Vue).
-  - Member: User-friendly web interface with responsive design.
+  - MongoDB
 - **Hosting and Deployment:**
   - Secure hosting environment.
   - Regular backups of the database.
