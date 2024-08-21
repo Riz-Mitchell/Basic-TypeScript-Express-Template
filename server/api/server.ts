@@ -4,7 +4,7 @@ import config from './config/config';
 const app = express();
 
 app.get('/', (req: Request, res: Response) => {
-    res.send('Sigma');
+    res.send('signma');
 });
 
 app.listen(config.port, () => {

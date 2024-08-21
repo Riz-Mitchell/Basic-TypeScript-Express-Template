@@ -3,6 +3,8 @@
         "module": "CommonJS",
         "moduleResolution": "Node",
         "target": "ES2020",
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true,
         "sourceMap": true,
         "outDir": "dist",
     },
@@ -15,4 +17,5 @@
     "experimentalDecorators": true,     // Enables experimental support for decorators
     "emitDecoratorMetadata": true,       // Emit design-type metadata for decorated declarations
     "include": ["api/**/*"],
+    "exclude": ["node_modules"]
 }
